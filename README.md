@@ -1,4 +1,4 @@
-https://github.com/MicrosoftDocs/pipelines-javascript
+https://dev.azure.com/alex0262/pharos/_apis/build/status/alexsplashex.pipelines-javascript
 
 # Sample NodeJS application for Azure Pipelines docs
 
